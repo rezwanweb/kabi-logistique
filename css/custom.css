@@ -1,0 +1,217 @@
+.style-5 .top-line {
+    background: #1adab3;
+}
+
+.navbar-default {
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+.navbar-nav li.drop ul.dropdown{
+  z-index: 99;
+}
+.navbar-nav > li > a:hover{
+    color: #1c1c1c!important;
+}
+.navbar-nav li.drop ul.dropdown li a:hover {
+    color: #1adab3!important;
+}
+.style-5 .navbar-nav > li > a {
+    color: #1adab3;
+}
+.style-2 .help-block .button-one{
+  background: #1adab3;
+}
+
+.navbar-nav > li > a.active{
+  color: #1adab3!important;
+}
+
+.about-box.ser-section:before{
+  background: none;
+}
+.service-section{
+  background: none;
+}
+#home-section .tp-caption a.trans-btn{
+  background: #1adab3;
+  border: 2px solid #1adab3;
+}
+.service-icon .button-one, .cta .button-one{
+  background: #1adab3;
+  color: #fff;
+}
+#payer .button-one{
+  background: #1adab3;
+  color: #000;
+  margin: 5px 0;
+}
+#payer .button-one:hover{
+  background: #1adab3!important;
+  color: #000!important;
+  margin: 5px 0!important;
+}
+.sec-title h2 span{
+  color: #1adab3;
+}
+.btn-primary.btn-black{
+  background: #1adab3;
+}
+.form-control{
+  background-color: #1adab340!important;
+  border-bottom: 1px solid #1adab3!important;
+  color: #ffffff;
+}
+.quicksearch::placeholder, .form-control::placeholder {
+  color: #1c1c1c!important;
+}
+.help-block-bg {
+    background: url(https://kabi-logistique.com/images/224854291.jpg) no-repeat !important;
+    background-size: cover !important;
+}
+
+.help-block h2{
+  color: #1adab3;
+}
+
+.testimonial-section {
+    background: url(https://kabi-logistique.com/images/345950657.jpg) no-repeat;
+}
+.testimonial-section::before {
+    background: #071418b0;
+}
+.testimonial-section .testimonial-box h2{
+  color: #1adab3;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a.active {
+    background: #1adab3;
+    border-color: #1adab3;
+}
+
+/*Services*/
+#particulier .page-banner-section {
+    padding: 97px 0 65px;
+    position: relative;
+    background: url(https://kabi-logistique.com/images/particulier-icon.jpg) center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#entreprise .page-banner-section {
+    padding: 97px 0 65px;
+    position: relative;
+    background: url(https://kabi-logistique.com/images/entreprise-icon.jpg) center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#inter .page-banner-section {
+    padding: 97px 0 65px;
+    position: relative;
+    background: url(https://kabi-logistique.com/images/inter-icon.jpg) center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#inter .page-banner-section h2, #entreprise .page-banner-section h2, #particulier .page-banner-section h2{
+  color: #000000;
+}
+
+#about .page-banner-section {
+    padding: 97px 0 65px;
+    position: relative;
+    background: url(https://kabi-logistique.com/images/1799076595.jpg) center;
+}
+
+1616466433
+#about .page-banner-section h2{
+  color: #1adab3;
+}
+#inventaire .page-banner-section {
+    padding: 97px 0 65px;
+    position: relative;
+    background: url(https://kabi-logistique.com/images/1616466433.jpg) center;
+}
+
+#contact .page-banner-section {
+    padding: 97px 0 65px;
+    position: relative;
+    background: url(https://kabi-logistique.com/images/1659526516.jpg) center;
+}
+
+#pay .page-banner-section {
+    padding: 97px 0 65px;
+    position: relative;
+    background: url(https://kabi-logistique.com/images/1709282470.jpg) center;
+}
+
+
+
+.error-section{
+    position: relative;
+    background: url(https://kabi-logistique.com/images/653629663.jpg) center;
+}
+
+
+
+
+
+.about-box {
+    padding: 70px 0px;
+    background: #fff!important;
+}
+
+
+.contact, .contact h2, .contact p{
+  background: #1adab3!important;
+  color:#ffffff!important;
+}
+
+.callto-action {
+    background: #1adab3;
+}
+.callto-action .call-title-text{
+  color: #ffffff;
+}
+
+.ok-icon{
+  color: #1adab3!important;
+}
+
+/*Inventaire*/
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+    border: 1px solid #1adab3;
+    background: #1adab3;
+    font-weight: normal;
+    color: #1c1c1c!important;
+}
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited{
+  color: #1c1c1c!important;
+}
+.bloc-lead{
+  background-color: #1c1c1c;
+  padding: 1em;
+  color: #fff;
+  text-align: center;
+}
+
+/*Contact*/
+.contact-section .contact-info h2 {
+    color: #1c1c1c;
+}
+#contact-form input[type="submit"]{
+  background: #1adab3;
+}
+#contact-form input[type="text"]::placeholder, #contact-form textarea::placeholder{
+  color: #1c1c1c!important;
+}
+#contact .page-banner-section h2{
+  color: #1c1c1c;
+}
+
+.icon-box.ib-style-3 .ib-info{
+  padding-top: 40px;
+}
